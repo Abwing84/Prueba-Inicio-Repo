@@ -1,6 +1,6 @@
 # Comienzo del Readme... de Abel Astudillo
 
-Hemos comenzado con el repositorio, les voy a deajr los comandos que utilice <br>
+Hemos comenzado con el repositorio, les voy a dejar los comandos que utilice <br>
 
 
 * Vimos como he creado el repositorio en la nube de Github
@@ -35,6 +35,8 @@ Hemos comenzado con el repositorio, les voy a deajr los comandos que utilice <br
 Ingresamos al repositorio y solo apretamos punto <br>
 
 ```sh 
-     .
-```  
+    .
+```
+
+Ingresamos todo esta informacion y terminamos.
 
