@@ -171,7 +171,7 @@ Del otro lado el usuario invitado solo debe aceptar y listo, ya puede participar
 # CLASE 05 MIÉRCOLES 9 DE SEPTIEMBRE DEL 2026 - Portafolio 4
 
 ## Git tag y versiones en GitHub
-```sh comilla backtick = Alt+96
+
 En Git, las etiquetas o Git tags tienen un papel importante al asignar versiones a los commits más significativos de un proyecto. Aprender a utilizar el comando git tag, entender los diferentes tipos de etiquetas, cómo crearlas, eliminarlas y compartirlas, es esencial para un flujo de trabajo eficiente.
 
 
@@ -188,7 +188,7 @@ Para obtener una lista de etiquetas en el repositorio, ejecuta el siguiente coma
 ![git - taggin - v1.0](./imagenes/image.png)
 
 Para crear una etiqueta, ejecuta el siguiente comando:
-
+```sh comilla backtick = Alt+96
 
 
 Las etiquetas anotadas almacenan información adicional como la fecha, etiquetador y correo electrónico, y son ideales para publicaciones públicas. Las etiquetas ligeras son más simples y se emplean como “marcadores” de una confirmación específica.
