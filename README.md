@@ -185,7 +185,7 @@ Sustituye con un identificador semántico que refleje el estado del repositorio 
 Listado de etiquetas
 Para obtener una lista de etiquetas en el repositorio, ejecuta el siguiente comando:
 
-![git - taggin - v1.0](image.png)
+![git - taggin - v1.0](./imagenes/image.png)
 
 Para crear una etiqueta, ejecuta el siguiente comando:
 
