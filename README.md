@@ -227,3 +227,33 @@ Esto eliminará la etiqueta identificada por en el repositorio local.
 
 En resumen, las etiquetas en Git son esenciales para asignar versiones y capturar instantáneas importantes en el historial de un proyecto. Aprender a crear, listar, compartir y eliminar etiquetas mejorará tu flujo de trabajo con Git.
 ```
+# CLASE 06 MIÉRCOLES 16 DE SEPTIEMBRE DEL 2026 - Portafolio 5
+```sh comilla backtick = Alt+96
+Error con los tags
+
+Investigación: ¿Qué pasa si por error cargamos un tag con el mismo nombre dos veces?
+
+¿Cómo solucionarías este problema o error?
+
+En Git, no podemos tener dos tags con el mismo nombre dentro de un repositorio.
+
+Si intentamos crear un tag que ya existe, Git mostrará un mensaje de error.
+
+Esto sucede porque cada tag identifica una versión o un punto específico del proyecto.
+
+Por ejemplo, podemos utilizar tags para identificar versiones como `v1.0`, `v2.0` o `v3.0`.
+
+Si creamos uno por error, primero debemos comprobar si ya existe utilizando `git tag`.
+
+Si el tag está mal creado, podemos eliminarlo con el comando `git tag -d nombre`.
+
+Luego, podemos volver a crearlo con el nombre correcto y apuntando a la versión deseada.
+
+Si el tag ya fue subido a GitHub, también debemos eliminarlo del repositorio remoto.
+
+Para hacerlo, utilizamos el comando `git push origin --delete nombre`.
+
+De esta manera, evitamos confusiones y mantenemos organizadas las versiones de nuestro proyecto.
+
+La respuesta debe ser enviada antes de las 23 horas por cada grupo, deben enviar comandos y todo los pasos que harían frente a este conflicto.
+```
